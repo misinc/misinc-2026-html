@@ -1,0 +1,13 @@
+
+6/27/26, 7:29:32 PM - ERROR: Download of “https://fy.app/assets/index-DRL51xV4.js”, referred from “/Users/karim/Dropbox (MIS, Inc.)/misinc.com/site/2026/misinc-2026-html/misinc.netlify.appx/index.html”, failed with error code -1003 (A server with the specified hostname could not be found.)
+
+---------------------
+
+6/27/26, 7:30:00 PM - ERROR: Download of “https://via.placeholder.com/320x120”, referred from “/Users/karim/Dropbox (MIS, Inc.)/misinc.com/site/2026/misinc-2026-html/misinc.netlify.appx/solutions/professional-services.html”, failed with error code -1200 (A TLS error caused the secure connection to fail.)
+6/27/26, 7:30:00 PM - ERROR: Download of “https://via.placeholder.com/320x120”, referred from “/Users/karim/Dropbox (MIS, Inc.)/misinc.com/site/2026/misinc-2026-html/misinc.netlify.appx/solutions/startups-saas.html”, failed with error code -1200 (A TLS error caused the secure connection to fail.)
+6/27/26, 7:30:00 PM - ERROR: Download of “https://via.placeholder.com/320x120”, referred from “/Users/karim/Dropbox (MIS, Inc.)/misinc.com/site/2026/misinc-2026-html/misinc.netlify.appx/solutions/retail-ecommerce.html”, failed with error code -1200 (A TLS error caused the secure connection to fail.)
+6/27/26, 7:30:00 PM - ERROR: Download of “https://via.placeholder.com/320x120”, referred from “/Users/karim/Dropbox (MIS, Inc.)/misinc.com/site/2026/misinc-2026-html/misinc.netlify.appx/solutions/nonprofits.html”, failed with error code -1200 (A TLS error caused the secure connection to fail.)
+6/27/26, 7:30:00 PM - ERROR: Download of “https://via.placeholder.com/320x120”, referred from “/Users/karim/Dropbox (MIS, Inc.)/misinc.com/site/2026/misinc-2026-html/misinc.netlify.appx/solutions/small-businesses.html”, failed with error code -1200 (A TLS error caused the secure connection to fail.)
+6/27/26, 7:30:00 PM - ERROR: Download of “https://via.placeholder.com/320x120”, referred from “/Users/karim/Dropbox (MIS, Inc.)/misinc.com/site/2026/misinc-2026-html/misinc.netlify.appx/solutions/real-estate.html”, failed with error code -1200 (A TLS error caused the secure connection to fail.)
+
+---------------------
